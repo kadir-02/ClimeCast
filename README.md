@@ -1,4 +1,4 @@
 <h1>ClimeCast</h1>
-<div>It is an weather forecasting web-app</div> 
+<div>It gives you whether information based on your location or searched city/place</div> 
 
 Live Server/Link : https://kadir-02.github.io/ClimeCast/ 
